@@ -1,3 +1,5 @@
 # Battle-of-the-Neighbourhoods
-coursera-capstone-project
-What boroughs in london have restaurants as their most popular venue and what kind of food do the restaurants serve
+## coursera-capstone-project
+## What boroughs in london have restaurants as their most popular venue and what kind of food do the restaurants serve
+## Introduction: London is a city famous for its numerous eateries and restaurants. As an investor who is interested in opening up a restaurant in one of the London Boroughs, it would be good to know what boroughs have restaurants as their most popular venue, and also what sort of cuisine that the restaurant is offering. re serving is popular and what London boroughs may be suitable to open another branch in.
+ ## Data : Using wikipedia to gather names of all the 32 boroughs of London (not included is the City of London location). Then using geopy to gather all the borough longitude and latitude data. Using the Fuursquare API to gather the information on trending venues around each borough. Grouping the data using the k-means clustering algorithm in order to find similar boroughs and finding the boroughs that have restaurants as their most popualr venue and what sort of cuisine the restaurant serves.
